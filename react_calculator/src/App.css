@@ -1,0 +1,242 @@
+html {
+  background-color: rgb(47, 86, 59);
+}
+
+.App {
+  text-align: center;
+  
+}
+
+.calc-container {
+  display: grid;
+  margin: 100px auto;
+  border-radius: 20px;
+  background-color: rgb(255, 255, 255);
+  width: 500px;
+  height: 800px;
+  justify-content: center;
+  box-shadow: 1px 15px 20px;
+  color: rgb(34, 41, 34);
+  
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 100px);
+  grid-template-rows: repeat(5,100px);
+  gap: 15px;
+}
+
+
+
+.resultBar {
+  width: 420px;
+  height: 70px;
+  margin-top: 35px;
+  background-color: rgb(245, 244, 244);
+  border-radius: 20px;
+  border: 0;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+  font-size: 30px;
+
+}
+
+.b1 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b2 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b3 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b4 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b5 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b6 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b7 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b8 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b9 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b10 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b11 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b12 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b13 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b14 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b15 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b16 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b17 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b18 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b19 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
+
+.b20 {
+  height: 90px;
+  width: 90px;
+  font-size: 30px;
+  background-color: rgb(245, 244, 244);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 8px 8px rgb(186, 184, 184);
+}
